@@ -1,0 +1,23 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Froszyy Site"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  # logo = "img/logo.png"
+  description = "My awesome website"
+  # copyright = "Copy, _right?_ :thinking_face:"
+  dateFormat = "2 January 2006"
+
+[author]
+  name = "froszyy"
+  image = "img/avatar.png"
+  headline = "ヾ(⌒ー⌒)ノ"
+  bio = "Maker of this website, programmer and artist."
+   links = [
+     { github = "https://github.com/froszyy" },
+     { youtube = "https://www.youtube.com/channel/UCh40De74DC7BYCeVcrxCygQ" }
+   ]
