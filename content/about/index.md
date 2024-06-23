@@ -17,10 +17,19 @@ Nunc non leo non magna ornare condimentum. Phasellus consequat nunc ut tellus po
 
 ## The critters
 
+I have 2 cats, one is a calico and around 10 years old.
+the other one is a 6 year old korat that is more like a fire alarm than a cat.
+
 {{< figure
     src="img/Skittlesfat.jpg"
     alt="Skittles being fat"
-    caption="My little critter called skittles. ᓚᘏᗢ"
+    caption="Skittles"
+    >}}
+
+{{< figure
+    src="img/MuffinCouch.png"
+    alt="Muffin being a loaf"
+    caption="Muffin"
     >}}
 
 
