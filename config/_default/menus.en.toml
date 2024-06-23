@@ -42,3 +42,8 @@
    name = "About me"
    pageRef = "about"
    weight = 10
+
+ [[footer]]
+   name = "ᓚᘏᗢ"
+   pageRef = "ᓚᘏᗢ"
+   weight = 10

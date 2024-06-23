@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Froszyy Site"
+title = "Froszyy"
 
 [params]
   displayName = "EN"
@@ -13,11 +13,13 @@ title = "Froszyy Site"
   dateFormat = "2 January 2006"
 
 [author]
-  name = "froszyy"
+  name = "Froszyy"
   image = "img/avatar.png"
   headline = "ヾ(⌒ー⌒)ノ"
-  bio = "Maker of this website, programmer and artist."
+  bio = "Unlimited bacon but no games, or games, unlimited games but no games?"
    links = [
      { github = "https://github.com/froszyy" },
-     { youtube = "https://www.youtube.com/channel/UCh40De74DC7BYCeVcrxCygQ" }
+     { youtube = "https://www.youtube.com/channel/UCh40De74DC7BYCeVcrxCygQ" },
+     { roblox = "https://www.roblox.com/users/589337075/profile" },
+     { steam = "https://steamcommunity.com/profiles/76561198837997006/" }
    ]

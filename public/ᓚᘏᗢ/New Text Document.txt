@@ -1,0 +1,23 @@
+---
+title: "ᓚᘏᗢ"
+summary: "meow"
+categories: []
+tags: []
+#externalUrl: ""
+#showSummary: false
+date: 2024-06-23
+draft: false
+---
+
+## Meow machines
+{{< gallery >}}
+  <img src="img/muffinlooking.jpg" class="grid-w33" />
+  <img src="img/SkittlesCouch.jpg" class="grid-w33" />
+  <img src="img/SkittlesDesk.jpg" class="grid-w33" />
+  <img src="img/SkittlesFat2.jpg" class="grid-w33" />
+  <img src="img/Skittlesloaf.jpg" class="grid-w33" />
+  <img src="img/Skittlesrug.jpg" class="grid-w33" />
+  <img src="img/MuffinDesk.jpg" class="grid-w33" />
+  <img src="img/MuffinCouch.png" class="grid-w33" />
+  <img src="img/SkittlesFat.jpg" class="grid-w33" />
+{{< /gallery >}}
